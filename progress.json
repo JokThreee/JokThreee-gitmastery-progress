@@ -1,0 +1,90 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786641265.510786,
+    "completed_at": 1786641268.859944,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786641369.275143,
+    "completed_at": 1786641372.859223,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786641418.02436,
+    "completed_at": 1786641419.949813,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786641958.072933,
+    "completed_at": 1786641959.89993,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786640974.795971,
+    "completed_at": 1786640976.73562,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786640547.955341,
+    "completed_at": 1786640549.667418,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786640624.376998,
+    "completed_at": 1786640626.090177,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786640671.945899,
+    "completed_at": 1786640673.620386,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786633612.681664,
+    "completed_at": 1786633616.399226,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786633699.414446,
+    "completed_at": 1786633701.282446,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
